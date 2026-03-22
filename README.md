@@ -13,7 +13,7 @@
 | AWS | Docker | Terraform | Jenkins | Prometheus |
 | EC2 / EKS | Kubernetes | HCL | GitHub Actions | Grafana |
 | Lambda / S3 | ECS | | Gitlab | CloudWatch |
-| RDS / SQS | | | | |
+| RDS / SQS | | | ArgoCD | |
 
 ---
 
